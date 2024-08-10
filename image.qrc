@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>planWar/btn_start.png</file>
+        <file>planWar/btn_start_push.png</file>
+        <file>planWar/emey_fire.png</file>
+        <file>planWar/fire1.png</file>
+        <file>planWar/fire2.png</file>
+        <file>planWar/icon.jpeg</file>
+        <file>planWar/me.png</file>
+        <file>planWar/scene1.jpg</file>
+        <file>planWar/scene2.jpg</file>
+        <file>planWar/scene12.jpg</file>
+        <file>planWar/startScene.jpeg</file>
+        <file>planWar/fire1(1).png</file>
+        <file>planWar/main.mp3</file>
+        <file>planWar/MpBoom.mp3</file>
+        <file>planWar/play.mp3</file>
+        <file>planWar/start.mp3</file>
+        <file>planWar/hurt.png</file>
+        <file>planWar/boom1.png</file>
+        <file>planWar/boom2.png</file>
+        <file>planWar/boom3.png</file>
+        <file>planWar/boom4.png</file>
+        <file>planWar/boom5.png</file>
+        <file>planWar/boom6.png</file>
+        <file>planWar/boom7.png</file>
+        <file>planWar/boom8.png</file>
+        <file>planWar/emey(1).png</file>
+        <file>planWar/frame.png</file>
+    </qresource>
+</RCC>

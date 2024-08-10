@@ -1,0 +1,13 @@
+release/boom.o
+release/emey.o
+release/fire.o
+release/main.o
+release/map.o
+release/me.o
+release/mypushbutton.o
+release/start.o
+release/widget.o
+release/qrc_image.o
+release/moc_mypushbutton.o
+release/moc_start.o
+release/moc_widget.o

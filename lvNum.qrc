@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>planWar/0.png</file>
+        <file>planWar/1.png</file>
+        <file>planWar/2.png</file>
+        <file>planWar/3.png</file>
+        <file>planWar/4.png</file>
+        <file>planWar/5.png</file>
+        <file>planWar/6.png</file>
+        <file>planWar/7.png</file>
+        <file>planWar/8.png</file>
+        <file>planWar/9.png</file>
+    </qresource>
+</RCC>
